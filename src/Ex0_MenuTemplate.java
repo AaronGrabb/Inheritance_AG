@@ -1,3 +1,5 @@
+import MyStuff.Library;
+
 class Ex0_MenuTemplate {
     public static void run() {
 

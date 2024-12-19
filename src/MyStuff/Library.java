@@ -1,3 +1,5 @@
+package MyStuff;
+
 import java.util.Scanner;
 
 

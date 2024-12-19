@@ -12,7 +12,7 @@ class SmallStageEvent extends Event{
     public SmallStageEvent(String name, String type, String coop){
         super(name, type);
         cooperation = coop;
-        super.setLocation("Main Stage");
+        super.setLocation("Small Stage");
         techRequirements = new ArrayList<String>();
         Bands = new ArrayList<String>();
         Bands.add(name);
