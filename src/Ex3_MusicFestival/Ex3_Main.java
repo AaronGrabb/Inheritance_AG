@@ -48,8 +48,30 @@ public class Ex3_Main {
 
 
 while(true){
-    System.out.println("Press 1 to see all events\nPress 2 to add an event\nPress 3 to filter and print\nPress 4 to exit");
-    String choice = Library.input.nextLine();
+    System.out.println("Press 1 to see a specfic kind of events\nPress 2 to add an event\nPress 3 to filter and print\nPress 4 to exit");
+    int choice = Library.input.nextInt();
+
+
+    if(choice == 1){
+        System.out.println("What type of events would you like to see?");
+        String answer = Library.input.nextLine();
+        for (int i = 0; i < allEvents.size(); i++) {
+            if(answer.equalsIgnoreCase(allEvents.get(i).getEventType())){
+//                System.out.println(allEvents.get(i).);
+            }
+        }
+    }
+    if(choice == 2){
+
+    }
+    if(choice == 3){
+
+    }
+    if(choice == 4){
+
+    }
+
+
 }
     }
 

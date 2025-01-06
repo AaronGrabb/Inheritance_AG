@@ -17,6 +17,10 @@ public abstract class Event {
         location = "tbd";
     }
 
+    public String printMe(){
+        return eventID + eventName + eventType;
+    }
+
     public int getEventID() {
         return eventID;
     }
