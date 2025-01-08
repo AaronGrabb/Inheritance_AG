@@ -18,7 +18,7 @@ public abstract class Event {
     }
 
     public String printMe(){
-        return eventID + eventName + eventType;
+        return "ID: " + eventID + " Name: " +eventName + " Location: " + location + " Time: " + time;
     }
 
     public int getEventID() {

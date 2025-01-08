@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d347db3d-fdc9-4f1b-940f-de355116165b" name="Changes" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex0_MenuTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex0_MenuTemplate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Ex3_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Ex3_Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Library.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex3_MusicFestival/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_MusicFestival/Event.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex3_MusicFestival/Ex3_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_MusicFestival/Ex3_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoDArrarys/Ex1_GolfCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoDArrarys/Ex1_GolfCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +25,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AaronGrabb"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AaronGrabb/Inheritance_AG.git",
+    "accountId": "250ba43d-6ea0-4078-bbc4-8aae7d80e22b"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2pjAM2SMMBQpFLeNW03mRwGGXKp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -39,17 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/CompSci30_AG/Inheritance&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/CompSci30_AG/Inheritance",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
