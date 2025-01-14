@@ -11,9 +11,9 @@ public class Main {
 //        Ex1_Main.run();
 
 //Ex2_Main.run();
-//        Ex3_Main.run();
+        Ex3_Main.run();
 //        Ex1_GolfCard.run();
-        Ex2_TicTacToe.run();
+//        Ex2_TicTacToe.run();
     }
 
 }

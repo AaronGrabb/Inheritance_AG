@@ -6,13 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d347db3d-fdc9-4f1b-940f-de355116165b" name="Changes" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Event.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Ex3_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Ex3_Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/FoodEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/FoodEvent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/TwoDArrays/Ex1_GolfCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/TwoDArrays/Ex1_GolfCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_MusicFestival/Ex3_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_MusicFestival/Ex3_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_MusicFestival/FoodEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_MusicFestival/FoodEvent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoDArrays/Ex1_GolfCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoDArrays/Ex1_GolfCard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +41,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "F:/CompSci30_AG/OOP_Exam_YourInitials",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",

@@ -2,9 +2,9 @@ package Ex3_MusicFestival;
 
 public class FoodEvent extends NonMusicEvent{
 
-    private int sales;
+    private double sales;
 
-    public FoodEvent(String name, String type, String location, int s ){
+    public FoodEvent(String name, String type, String location, double s ){
 super(name, type, location);
 sales = s;
 

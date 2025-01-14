@@ -48,7 +48,7 @@ public class Ex3_Main {
 
 
 while(true){
-    System.out.println("Press 1 to see a specific kind of events\nPress 2 to look for specific event\nPress 3 to add an event\nPress 4 to exit");
+    System.out.println("Press 1 to see a specific kind of events\nPress 2 to look for specific event\nPress 3 to add an event\nPress 4 to print all\nPress 5 to exit");
     int choice = Library.input.nextInt();
     Library.input.nextLine();
 
@@ -72,9 +72,7 @@ while(true){
         }
     }
     if(choice == 3){
-        System.out.println("What is the ID of the event you would like to add?");
-        String newEventID = Library.input.nextLine();
-        System.out.println("What is the name of your event?");
+        System.out.println("What is the name of your event?(ID will automatically be produced)");
         String newEventName = Library.input.nextLine();
         System.out.println("What is the event's type? Type 1 if music, type 2 if food, type 3 if other");
         int newEventType = Library.input.nextInt();
@@ -89,23 +87,48 @@ while(true){
             }
             else{
                 System.out.println("This group must be playing solo, do they need any tech?");
-
+                String needTech = Library.input.nextLine();
+                if(needTech.toLowerCase().contains("y")){
+                    String newTech = Library.input.nextLine();
+                    allEvents.add(new MainStageEvent(newEventName, "Music"));
+                    for (int i = 0; i < allEvents.size(); i++) {
+                        if(newEventName.equalsIgnoreCase(allEvents.get(i).getEventName())){
+                            ((MainStageEvent)allEvents.get(i)).addTech(newTech);
+                        }
+                    }
+                }
             }
 
         }
         if(newEventType == 2){
+            System.out.println("What is the location of your stand/truck?");
+            String newLocation = Library.input.nextLine();
+            System.out.println("What is the estimated sales you will be having?");
+            double newSales = Library.input.nextDouble();
+            Library.input.nextLine();
+            allEvents.add(new FoodEvent(newEventName, "Food", newLocation, newSales));
 
         }
 
         if(newEventType == 3){
 
+            System.out.println("What is the type of your stand?");
+            String newType = Library.input.nextLine();
+            System.out.println("What is the location of your event/stand?");
+            String newLocation = Library.input.nextLine();
+            allEvents.add(new NonMusicEvent(newEventName, newType, newLocation));
         }
 
 
 
     }
     if(choice == 4){
-
+        for (int i = 0; i < allEvents.size(); i++) {
+            System.out.println(allEvents.get(i).printMe());
+        }
+    }
+    if(choice == 5){
+        break;
     }
 
 
