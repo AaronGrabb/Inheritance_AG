@@ -8,7 +8,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Event.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Ex3_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/Ex3_Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/FoodEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Ex3_MusicFestival/FoodEvent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Inheritance_AG/TwoDArrays/Ex1_GolfCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Inheritance_AG/TwoDArrays/Ex1_GolfCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoDArrays/Ex1_GolfCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoDArrays/Ex1_GolfCard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,24 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AaronGrabb"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AaronGrabb/Inheritance_AG.git",
-    "accountId": "250ba43d-6ea0-4078-bbc4-8aae7d80e22b"
-  }
-}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
   <component name="ProjectId" id="2pjAM2SMMBQpFLeNW03mRwGGXKp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -53,13 +42,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/CompSci30_AG/Inheritance",
+    "last_opened_file_path": "F:/CompSci30_AG/OOP_Exam_YourInitials",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -97,12 +82,11 @@
       <updated>1734647145788</updated>
     </task>
     <task id="LOCAL-00002" summary="add">
-      <option name="closed" value="true" />
-      <created>1736320284114</created>
+      <created>1736370434379</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1736320284114</updated>
+      <updated>1736370434379</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
